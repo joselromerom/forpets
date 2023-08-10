@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "860322241467",
+    "project_id": "papets-app",
+    "storage_bucket": "papets-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860322241467:android:a2b0f92357cef4e4dfc29e",
+        "android_client_info": {
+          "package_name": "com.papets.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860322241467-1vlk2m1mh3h2gtgpl77kfhpb74s5si0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXmSKoH8xsNJC9BByktPtbMYOyP08sRL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860322241467-1vlk2m1mh3h2gtgpl77kfhpb74s5si0a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "860322241467-edbt0it2evh84plt66fin6p3r6ofdi86.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.papets.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
